@@ -1,0 +1,16 @@
+Package: PyCPackage
+Title: Evaluation of Genetic Diversity of Invasive Pyrus calleryana trees
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Shiwani",
+           family = "Sapkota",
+           role = c("aut", "cre"),
+           email = "siwanisapkota@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description:  Pyrus calleryana (callery pear) trees were imported from China to the US to combat fireblight disease in European pear in 1917. Those callery pear trees were hugely used as rootstock for several edible pears. Now, these trees are invasive species in most of the eastern and southern states of the US. For our study, P. calleryana samples were collected from China, Japan, Korea and US. Initially, we had 100 samples but at the end, we were limited with only 57 samples as other samples were cutoff due to several reasons. Our study aims at studying the genetic diversity of those trees and evaluate the relatedness of US species with the Asian ones.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
